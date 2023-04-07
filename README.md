@@ -5,7 +5,7 @@ Projeto desenvolvido na formação Django da Alura
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura space**
-| :label: Tecnologias | javascript, html, css, python, django
+| :label: Tecnologias |  python, django, javascript, html, css
 | :rocket: URL         | 
 | :fire: Desafio     | https://www.alura.com.br/formacao-django
 
