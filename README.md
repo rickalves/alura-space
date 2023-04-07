@@ -16,6 +16,7 @@ Projeto desenvolvido na formação Django da Alura
 ![](https://img.shields.io/badge/status-developing-brightgreen)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/rickalves/alura-space/main?color=gree)
 ![](https://img.shields.io/github/issues/rickalves/alura-space.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/rickalves/alura-space?color=sucess)
 
 
 
